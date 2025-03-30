@@ -1,0 +1,14 @@
+{
+  "name": "sahil-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot to trigger UDP binary attacks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@offx_sahil",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
